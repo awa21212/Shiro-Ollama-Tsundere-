@@ -1,2 +1,12 @@
-# Shiro-Ollama-Tsundere-
-🎭 基于 Ollama 的本地傲娇角色扮演框架。不仅提供绝对隐私的“口嫌体正直”专属陪伴，更支持接入 API 处理自动化任务与多开 Agent 并发。白天是傲娇打工人，晚上是专属赛博伴侣。A local Tsundere roleplay framework with API &amp; Multi-Agent support.
+# Shiro-Ollama-Tsundere
+
+A local tsundere roleplay framework built on Ollama. It gives you a fully private companion that says one thing and means another — and it also exposes an API, so the same character can drive automation tasks and run several agents concurrently.
+
+By day it is a grumpy coworker. By night it is your own cyber companion.
+
+- **Local first** — Ollama on your machine, no data leaves the box.
+- **Character driven** — the tsundere persona lives in the system prompt and the memory files, not in a cloud service.
+- **API friendly** — the same backend answers HTTP calls, so scripts and agents can use it.
+- **Multi-agent** — several personas can run at once against the same model host.
+
+> Status: personal project, moving fast, no stability promises.
